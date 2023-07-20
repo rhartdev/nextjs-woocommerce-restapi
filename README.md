@@ -1,9 +1,9 @@
 ## 🎨 Next.js WooCommerce REST API
 [![Project Status: Active.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
-![Stars](https://img.shields.io/github/stars/imranhsayed/nextjs-woocommerce-restapi?label=%E2%AD%90%20Stars)
-![Forks](https://img.shields.io/github/forks/imranhsayed/nextjs-woocommerce-restapi?color=%23ff69b4)
-![Contributors](https://img.shields.io/github/contributors/imranhsayed/nextjs-woocommerce-restapi?color=blue)
-![Follow](https://img.shields.io/github/followers/imranhsayed?label=Please%20follow%20%20to%20support%20my%20work%20%F0%9F%99%8F&style=social)
+![Stars](https://img.shields.io/github/stars/rhartdev/nextjs-woocommerce-restapi?label=%E2%AD%90%20Stars)
+![Forks](https://img.shields.io/github/forks/rhartdev/nextjs-woocommerce-restapi?color=%23ff69b4)
+![Contributors](https://img.shields.io/github/contributors/rhartdev/nextjs-woocommerce-restapi?color=blue)
+![Follow](https://img.shields.io/github/followers/rhartdev?label=Please%20follow%20%20to%20support%20my%20work%20%F0%9F%99%8F&style=social)
 
 - React WooCommerce Theme, using Decoupled Architecture in Next.js
 - Backend in WordPress
@@ -45,7 +45,7 @@ without having to re-build next.js the application.
 First clone/fork the repo and cd into it.
 
 ```bash
-git clone https://github.com/imranhsayed/nextjs-woocommerce-restapi.git
+git clone https://github.com/rhartdev/nextjs-woocommerce-restapi.git
 cd nextjs-woocommerce-restapi
 npm ci
 npm run dev
@@ -55,7 +55,7 @@ npm run dev
 
 - Install and Activate following WordPress Plugins:
 
-* [headless-cms](https://github.com/imranhsayed/headless-cms)
+* [headless-cms](https://github.com/rhartdev/headless-cms)
 * [woocommerce](https://wordpress.org/plugins/woocommerce/)
 
 ## Configuration :wrench:
@@ -76,10 +76,6 @@ npm run dev
 ## Versioning :bookmark_tabs:
 
 I use [Git](https://github.com/) for versioning.
-
-## Author :bust_in_silhouette:
-
-* **[Imran Sayed](https://twitter.com/imranhsayed)**
 
 ## License :page_with_curl:
 
